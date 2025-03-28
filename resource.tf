@@ -4,6 +4,6 @@ resource "aws_instance" "public_ec2" {
   key_name               = "jenkins27"
   availability_zone      = "ap-south-1a"
   tags = {
-    Name = "Anurag_public"
+    Name = "Anurag_public1"
   }
 }
